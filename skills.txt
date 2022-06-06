@@ -1,0 +1,14 @@
+1 HTTP
+2 JSON, XML
+3 API, POSTMAN, JS
+4 Charles, Fiddler
+5 DevTools
+6 VPN, Proxy
+7 Mobile testing
+8 XCode
+9 Android Studio
+10 ADB
+11 Sniffing
+12 Bash, Terminal
+13 SQL, Postgres, Redis
+14 Jmeter

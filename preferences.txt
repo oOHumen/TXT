@@ -1,0 +1,5 @@
+favoriteMovie: Home Alone
+favoriteSeries: Friends
+favoriteFood: Pasta
+favoriteSeason: Summer
+wantToGoCountry: USA
